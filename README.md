@@ -12,4 +12,4 @@ tengo un perro se llama CHESTER
 tengo un gato se llama GUSTAVO en honor a *LIL PEEP* uno de mis cantantes favoritosç
 ME LLAMO JOAN
 https://github.com//draken666
-![MOKWY DI LUFFY](https://www.google.com/search?q=luffy&tbm=isch&ved=2ahUKEwiUx_eBvIDzAhV7EGMBHSLBCQ0Q2-cCegQIABAA&oq=luffy&gs_lcp=CgNpbWcQAzIKCAAQsQMQgwEQQzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIHCAAQsQMQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzoFCAAQgAQ6BwgjEO8DECc6CggjEO8DEOoCECc6CAgAEIAEELEDOggIABCxAxCDAVCEwGZYsN1mYODeZmgBcAB4AoABZ4gB4gqSAQQxNS4xmAEAoAEBqgELZ3dzLXdpei1pbWewAQXAAQE&sclient=img&ei=ZaJBYdSAMfugjLsPooKnaA&bih=968&biw=1853&client=ubuntu&hs=VAT#imgrc=Q8Ltsew6jkbNDM)
+![MOKWY DI LUFFY](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2021/03/one-piece-2266339.jpg?itok=sCkWw6Bb)
