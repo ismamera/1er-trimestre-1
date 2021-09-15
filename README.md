@@ -27,9 +27,13 @@ ME LLAMO JOAN
 https://github.com//draken666
 
 
+https://github.com/d-prieto DAVID EL PROFE
+
+
+
 ![MOKWY DI LUFFY](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2021/03/one-piece-2266339.jpg?itok=sCkWw6Bb)
 
 
 ![MI BRO](https://estrenos.news/wp-content/uploads/2021/06/Fecha-de-estreno-del-episodio-11-de-Tokyo-Revengers.jpg)
 
-https://github.com/d-prieto DAVID EL PROFE
+
