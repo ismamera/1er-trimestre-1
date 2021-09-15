@@ -11,3 +11,4 @@ Una de las cosas que me han fascinado es el harware y el software, me gustaria m
 ## Lo que vimos en clase
 
 esto del binario es como importante o algo. 
+
