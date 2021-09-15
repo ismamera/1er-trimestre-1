@@ -31,3 +31,5 @@ https://github.com//draken666
 
 
 ![MI BRO](https://estrenos.news/wp-content/uploads/2021/06/Fecha-de-estreno-del-episodio-11-de-Tokyo-Revengers.jpg)
+
+https://github.com/d-prieto DAVID EL PROFE
