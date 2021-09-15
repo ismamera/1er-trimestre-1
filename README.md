@@ -9,7 +9,7 @@ Me gusta comer espaguetis estan buenos
 *AVECES ME QUIERO SUICIDAR* (EH PERO TODO LO MALO TIENE ALGO BUENO)
 *MIS PADRES ME RECOJIERON DE UNA BASURA*
 tengo un perro se llama CHESTER
-tengo un gato se llama GUSTAVO en honor a *LIL PEEP* uno de mis cantantes favoritosç
+tengo un gato se llama GUSTAVO en honor a *LIL PEEP* uno de mis cantantes favoritos
 ME LLAMO JOAN
 https://github.com//draken666
 ![MOKWY DI LUFFY](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2021/03/one-piece-2266339.jpg?itok=sCkWw6Bb)
