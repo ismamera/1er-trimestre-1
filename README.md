@@ -1,4 +1,4 @@
-# 1er-trimestre
+# 1er-trimestre ARQUITECTURA DE ORDENADORES
 
 Bueno ayer jugue al lol, y quede 0/10 con yasuo. Me reventaron,
 
