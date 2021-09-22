@@ -36,6 +36,7 @@ QUIERO UNA CHICA GAMER (GOTICA CULONA)
 
 MI ANIME FAVORITO ES ONE PIECE, pero me gustan muchos mas, como tokyo revengers que ha salido este año, boku no hero, naruto, yuri on ice. Me he visto bastamtes
 
+Me gustan las plantas <3
 
 
 
