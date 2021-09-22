@@ -10,19 +10,37 @@ A ella le gusta la gasolina dame mas gsolina
 
 ACAB
 
-Me gusta comer espaguetis estan buenos
+TENGO 16 AÑOS
 
-*ME GUSTA MUCHO DRAKEN ME HARIA HOMOSEXUAL POR EL Y SERIA DE SU BANDA*
+*ME GUSA TOKYO REVENGERS*
 
 *AVECES ME QUIERO SUICIDAR* (EH PERO TODO LO MALO TIENE ALGO BUENO)
 
-*MIS PADRES ME RECOJIERON DE UNA BASURA*
+*MIS PADRES ME RECOJIERON DE UNA BASURA* (ME LO DICEN DE COÑA O ESO CREO)
 
 tengo un perro se llama CHESTER
 
 tengo un gato se llama GUSTAVO en honor a *LIL PEEP* uno de mis cantantes favoritos
 
 ME LLAMO JOAN
+
+ME GUSTAN LOS ESPAGUETIS
+
+JUEGO AL LOL, AL MINECRAFT, AL COUNTER Y A MIL JUEGOS MAS
+
+EN MI TIEMPO LIBRE SUELO SALIR CON MIS AMIGOS MIS REALES
+
+ME GUSTA EL ANIME
+
+QUIERO UNA CHICA GAMER (GOTICA CULONA)
+
+MI ANIME FAVORITO ES ONE PIECE, pero me gustab muchos mas, como tokyo revengers que ha salido este año, boku no hero, naruto, yuri on ice. Me he visto bastamtes
+
+
+
+
+
+
 
 https://github.com//draken666
 
