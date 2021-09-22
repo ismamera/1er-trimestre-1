@@ -25,7 +25,7 @@ Es un sistema donde de base tenemos el 16
 funciona con potencias de dos (2,4,6,8)
 
 
-## EJERCICIOS
+### EJERCICIOS
 
 
 Numeros decimales:
@@ -46,6 +46,8 @@ calcula el valor mitjà dels valors introduïts i resta la mitjana resultant de 
 [1, 2, 3, 4, 5,5,6,44,3]
 
 1, 1O, 11, 100, 101, 101, 110, 101100, 11
+
+El 1000 en binario: 1111101000
 
 
 
