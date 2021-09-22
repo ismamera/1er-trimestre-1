@@ -64,6 +64,23 @@ El 1000 en binario: 1111101000
 
 
 
+## 1. FUNDAMIENTO BASICO DEL ORDENADOR
+
+      
+Es una maquina electronica que sirve para procesar informaicon digital, la informacion digital es aquella que puede expresarse en términos de 0 y 1, es decir, en el sistema binario de numeración
+
+El harware es es una maquina electronica, que no podria ser nada sin el sotware que son las aplicaciones.
+
+Sistemas  operativos,  como  Windows,  Linux  y  Mac  OS,  que  son  imprescindibles  para  el 
+funcionamiento del ordenador
+
+Aplicaciones, como los procesadores de texto, las hojas de cálculo, los programas de retoque 
+fotográfico, etc. Estos programas nos permiten hacer cosas muy diversas con los 
+ordenadores.
+
+
+
+
 
 
 
