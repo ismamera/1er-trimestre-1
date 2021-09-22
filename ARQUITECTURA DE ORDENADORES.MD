@@ -16,7 +16,9 @@ esto del binario es como importante o algo.
 
 Es un sistema donde solo se utilizan el 1 y el 2
 
-*0b* se utiliza para decuirle a un ordenador que es un numero binario, se puede hablar en genero binario es decir se pueden convertir numeros en letras, se llaman codigos.,  utilizaremos : AXI (la a 0101) y el unicode #tiene un monton de variantes de idiomas.
+##CONVERSION
+
+*0b* se utiliza para decuirle a un ordenador que es un numero binario, se puede hablar en genero binario es decir se pueden convertir numeros en letras, se llaman codigos.,  utilizaremos : AXI (la a 0101) y el unicode #tiene un monton de variantes de idiomas.es decir tiene un monton de caracteres.
 
 0-0  1-1  2-10  3-11  4-100  5-101  6-110  7-111  8-1000  9-1001  10- 1010 
 
