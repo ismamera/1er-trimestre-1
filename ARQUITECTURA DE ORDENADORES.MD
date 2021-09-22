@@ -41,6 +41,16 @@ Cuantas cifras tiene?
 17
 
 
+calcula el valor mitjà dels valors introduïts i resta la mitjana resultant de cada un dels valors de la matriu.
+
+[1, 2, 3, 4, 5,5,6,44,3]
+
+1, 1O, 11, 100, 101, 101, 110, 101100, 11
+
+
+
+
+
 
 
 
