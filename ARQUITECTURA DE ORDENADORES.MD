@@ -60,6 +60,12 @@ El 1000 en binario: 1111101000
 [conversor](https://es.convertbinary.com/decimal-a-binario)
 
 
+[classe-binario](https://github.com/Draken666/1er-trimestre/edit/main/ARQUITECTURA%20DE%20ORDENADORES.MD)
+
+
+
+
+
 
 
 
