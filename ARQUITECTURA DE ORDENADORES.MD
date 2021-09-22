@@ -128,6 +128,9 @@ con  los  que  está  trabajando.
 
 ## CREACION DE ORDENADOR
 
+JOAN ME CAGO EN TU PUTA MADRE
+
+
 
 
 
