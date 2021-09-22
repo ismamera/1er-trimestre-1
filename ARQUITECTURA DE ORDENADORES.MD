@@ -78,6 +78,59 @@ Aplicaciones, como los procesadores de texto, las hojas de cálculo, los program
 fotográfico, etc. Estos programas nos permiten hacer cosas muy diversas con los 
 ordenadores.
 
+La  información  que  percibimos  y  manejamos  es  de  tipo  analógico:  un  texto,  una  imagen,  un 
+sonido... Sin embargo, el ordenador sólo entiende de ceros y unos, es decir de información digital. 
+Para digitalizar una información analógica es necesario asignar a cada dato analógico un conjunto 
+de ceros y unos, de acuerdo con unas reglas. 
+
+En el interior del PC se encuentran los siguientes componentes:  
+
+1.Fuente de alimentación:  La fuente de alimentación convierte la corriente alterna que tomamos de 
+la red eléctrica en continua, que es la que necesitan los circuitos electrónicos 
+del  ordenador.  Además,  reduce  la  tensión  desde  220  V  hasta  unos  pocos 
+voltios.  
+
+2.Placa base, a la que se acoplan el microprocesador, la memoria RAM, la tarjeta gráfica y la 
+ tarjeta de sonido:  
+ 
+2.1 La placa base es el circuito electrónico más importante del ordenador. A ella se conectan, de una 
+ o otra forma todos los demás componentes del ordenador. Está formada por una placa de circuito 
+ impreso rectangular, de dimensiones un poco mayores a un papel de tamaño A4. 
+ 
+2.2 Microprocesador: El microprocesador es un circuito integrado formado por millones de transistores, cuya función 
+ es procesar los datos y las instrucciones que recibe de la memoria RAM.(Esta enganchado a la placa base), se puede calentar i sobrecalentar, 
+ que hay objetos como los ventiladores o un disparador termico para que no se sobreclaiente
+ 
+ 
+2.3.Los discos duros: Existen dos tipos de discos duros, el disco magnetico y el ssd
+
+
+2.4.Las unidades ópticas, ya sean de tipo CD-ROM, DVD o Bluray:
+
+
+2.5 RAM:
+
+La  memoria  RAM  es  donde  el  ordenador  almacena  temporalmente  los  datos  y  los  programas 
+con  los  que  está  trabajando.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## CREACION DE ORDENADOR
+
+
+
+
 
 
 
