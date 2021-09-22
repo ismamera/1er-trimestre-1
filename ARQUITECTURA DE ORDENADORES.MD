@@ -20,5 +20,21 @@ HEXADECIMAL: Es un sistema donde de base tenemos el 16
 
 funciona con potencias de dos (2,4,6,8)
 
+Numeros decimales:
+
+1.000.000 ¿como es en binario?
+
+00110001 00110111
+
+
+
+Cuantas cifras tiene?
+
+17
+
+
+
+
+
 
 
