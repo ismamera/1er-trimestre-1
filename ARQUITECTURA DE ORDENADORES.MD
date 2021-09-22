@@ -12,3 +12,5 @@ Una de las cosas que me han fascinado es el harware y el software, me gustaria m
 
 esto del binario es como importante o algo. 
 
+BINARIO: 0-0  1-1  2-10  3-11  4-100  5-101  6-110  7-111  8-1000  9-1001  10- 1010 
+
