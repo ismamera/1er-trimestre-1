@@ -20,6 +20,10 @@ esto del binario es como importante o algo.
 
 funciona con potencias de dos (2,4,6,8)
 
+
+## EJERCICIOS
+
+
 Numeros decimales:
 
 1.000.000 ¿como es en binario?
