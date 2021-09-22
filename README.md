@@ -38,6 +38,8 @@ MI ANIME FAVORITO ES ONE PIECE, pero me gustan muchos mas, como tokyo revengers 
 
 Me gustan las plantas <3
 
+[classe binario][https://github.com/Draken666/1er-trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD]
+
 
 
 
