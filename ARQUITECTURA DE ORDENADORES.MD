@@ -12,11 +12,11 @@ Una de las cosas que me han fascinado es el harware y el software, me gustaria m
 
 esto del binario es como importante o algo. 
 
-BINARIO: Es un sistema donde solo se utilizan el 1 y el 2
+## BINARIO: Es un sistema donde solo se utilizan el 1 y el 2
 
 0-0  1-1  2-10  3-11  4-100  5-101  6-110  7-111  8-1000  9-1001  10- 1010 
 
-HEXADECIMAL: Es un sistema donde de base tenemos el 16
+## HEXADECIMAL: Es un sistema donde de base tenemos el 16
 
 funciona con potencias de dos (2,4,6,8)
 
